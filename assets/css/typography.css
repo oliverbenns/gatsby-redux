@@ -1,0 +1,50 @@
+html,
+body {
+  font-size: 16px;
+}
+
+body {
+  font-family: Helvetica, sans-serif;
+  color: #000;
+  line-height: 1.6;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5 {
+  font-family: Helvetica, sans-serif;
+  margin-bottom: 0.5rem;
+}
+
+h1 {
+  font-size: 3rem;
+  line-height: 1.05;
+  margin-bottom: 1rem;
+}
+
+h2 {
+  font-size: 2rem;
+  line-height: 1.25;
+}
+
+h3 {
+  font-size: 1.5rem;
+  line-height: 1.25;
+}
+
+h4 {
+  font-size: 1.125rem;
+  line-height: 1.222;
+}
+
+h5 {
+  font-size: 1rem;
+  line-height: 1.05;
+}
+p {
+  margin-bottom: 1rem;
+}
